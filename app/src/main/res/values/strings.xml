@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">CarroApp</string>
+    <string name="brand">Marca</string>
+    <string name="model">Modelo</string>
+    <string name="year">Ano</string>
+    <string name="price">Preço</string>
+    <string name="brand_car">Marca: %1$s!</string>
+    <string name="model_car">Modelo: %1$s!</string>
+    <string name="year_car">Ano: </string>
+    <string name="price_car">Preço: R$</string>
+    <string name="money_sign">R$ %1$s</string>
+    <string name="save">Salvar</string>
+    <string name="empty_brand_message">O nome da marca não pode ser vazio</string>
+    <string name="empty_model_message">O nome do modelo não pode ser vazio</string>
+</resources>
